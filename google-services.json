@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "660563806539",
+    "project_id": "employee-performance-tra-f70c9",
+    "storage_bucket": "employee-performance-tra-f70c9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660563806539:android:7e08fc93f8bd2a688580ce",
+        "android_client_info": {
+          "package_name": "com.example.employeeperformancetracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt6GViHSiIiMuG6MJGWoYAn6RXSWxMWIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
